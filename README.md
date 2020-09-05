@@ -14,6 +14,7 @@ Download the starter code and go through the README.md file. This will provide f
 
 
 Getting started
+
 1.Download the starter code
 
 2.Set up the project with version control (e.g. Git)
