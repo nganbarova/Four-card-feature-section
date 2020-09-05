@@ -1,7 +1,7 @@
 # Four-card-feature-section
 Responsive webpage (HTML5, CSS3, Flexbox )
 
-Brief
+# Brief
 Your challenge is to build out this feature section and get it looking as close to the design as possible.
 
 You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
@@ -13,16 +13,16 @@ Download the starter code and go through the README.md file. This will provide f
 
 
 
-Getting started
+# Getting started
 
-1.Download the starter code
+1. Download the starter code
 
-2.Set up the project with version control (e.g. Git)
+2. Set up the project with version control (e.g. Git)
 
-3.Read the README.md file and have a look around the project
+3. Read the README.md file and have a look around the project
 
-4.Get colors, fonts etc from the style-guide.md file
+4. Get colors, fonts etc from the style-guide.md file
 
-5.Set up your project/file architecture however you want
+5. Set up your project/file architecture however you want
 
-6.Start coding!
+6. Start coding!
